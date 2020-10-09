@@ -15,3 +15,4 @@ Output: All the details in a nice card like environment.
 # Work 
 
 ![](wa1.png)
+![](wa2.png)
