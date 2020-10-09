@@ -12,6 +12,7 @@ Output: All the details in a nice card like environment.
 2. Asynchronous JS
 3. Fetching data from remote server and using them
 
-# How to use this?
+# Work 
 
-Will update later...
+![Project Image](../wa1.png);
+![Project Image 2] (../wa2.png);

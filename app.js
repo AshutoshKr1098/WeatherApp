@@ -35,6 +35,8 @@ const updateInfo= async (location)=>{
         city.innerText= place.city.toUpperCase();
         weather.innerText=place.weather.toUpperCase();
         temp.innerText= place.temp;
+        //document.querySelector('.wrapper').style.backgroundImage= `url(./images/${place.weather}.jpg)`;
+        //document.querySelector('.wrapper').style.filter='blur(5px)';        
         // temp.innerText += '&deg C'; 
         document.querySelector('.card').style.visibility='visible';    
         //console.log(final[0]);  
