@@ -1,0 +1,11 @@
+[
+    {"city":"delhi","weather":"sunny","temp":34},
+    {"city":"mumbai","weather":"winter","temp":12},
+    {"city":"kolkata","weather":"humid","temp":22},
+    {"city":"lucknow","weather":"sunny","temp":39},
+    {"city":"miami","weather":"sunny","temp":45},
+    {"city":"chicago","weather":"rainy","temp":21},
+    {"city":"london","weather":"winter","temp":2},
+    {"city":"berlin","weather":"humid","temp":23},
+    {"city":"agra","weather":"rainy","temp":24}
+]
