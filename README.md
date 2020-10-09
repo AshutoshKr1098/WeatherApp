@@ -14,5 +14,4 @@ Output: All the details in a nice card like environment.
 
 # Work 
 
-![Project Image](../wa1.png);
-![Project Image 2] (../wa2.png);
+![project](../wa1.png?raw=true "Title")
