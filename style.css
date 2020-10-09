@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ddd;
+}
+.container{
+    max-width: 300px;
+    background-color: #ddd;
+    margin: 50px auto;
+}
+.card{
+    max-width: 300px;
+    background-color: rgb(159, 213, 226);
+    height: 300px;
+    margin: 20px auto;
+}
+h2{
+    color:gray;
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    color:gray;
+    font-size: small;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+input{
+    width:280px;
+    margin-left: 10px;
+    height:50px;
+    font-size: larger;
+    color:#333;
+    background-color: rgb(180, 177, 177);
+    
+}
+.header{
+    max-width: 300px;   
+}
